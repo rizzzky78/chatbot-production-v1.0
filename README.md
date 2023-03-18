@@ -7,7 +7,7 @@
   
 </p>
 
-## [![JavaScript](https://img.shields.io/badge/JavaScript-d6cc0f?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com) [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)[![MongoDB](https://img.shields.io/badge/MongoDB-43853D?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
+## [![JavaScript](https://img.shields.io/badge/JavaScript-d6cc0f?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com) [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![MongoDB](https://img.shields.io/badge/MongoDB-43853D?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
 
 Lightweight WhatsApp Bot - For Production Use
 
@@ -61,17 +61,6 @@ $ npm install pm2 - g
 -   Lanjut, buka folder `config`, buka file `global.js`
 
 -   Edit value `ATLAS.URI`, paste-kan link URI (sudah include username & password)
-
-```cmd
-$ pkg install git sqlite python make -y
-$ npm install sqlite3 --build-from-source --sqlite=/data/data/com.termux/files/usr/bin/sqlite3
-```
-
--   Installing nodejs package & migrating
-
-```cmd
-$ npm install
-```
 
 ---
 
