@@ -109,6 +109,18 @@ $ nodemon
 
 ---
 
+## Attention
+
+WA API Baileys merupakan API NON-OFFICIAL, segala kemungkinan yang dapat terjadi:
+
+-   `Akun whatsapp` dapat di banned oleh pihak `Whatsapp`, jika terindikasi melakukan spamming, dll
+
+-   Segala hal yang terjadi pada pengguna module ini `bukan sepenuhnya tanggungjawab Developer`
+
+-   Solusi agar tidak terbanned adalah dengan cara melakukan `limitasi` akses `user`, menambah cooldown command, dll
+
+---
+
 ## 💪 Contributing
 
 Hello, im Rizky
@@ -128,5 +140,3 @@ Mohon maaf jika segala-nya dikenan kurang rapih, baik module tree, sintaks, dsb.
 
 -   Allah SWT
 -   [Adiwajshing - Baileys](https://github.com/adiwajshing/Baileys)
--   [Faiz Bastomi](https://github.com/FaizBastomi/)
--   [Pais](https://github.com/Paiiss)
